@@ -1,3 +1,6 @@
+![Neural_Networks_SwissCognitive](https://github.com/user-attachments/assets/a76f398a-a8d8-4ef0-af11-0502c21af244)
+
+
 # Alphabet Soup Deep Learning Model
 
 ## Overview of the analysis
